@@ -10,3 +10,10 @@ print(re.search((r"^[a-z]{8}"),s1))
 
 # $ => matches the end of the string
 print(re.search(r'[a-z]{8}$',s1))
+
+# group ==> () + | (or)
+
+emails = "abc_123@gmail.com sohaib rashid .edu"
+epat = r'(com)'
+
+print(re.search(epat,emails))
