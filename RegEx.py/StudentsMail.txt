@@ -1,0 +1,53 @@
+Valid emails:
+Alice alice.cool_123@example.com 9876543210
+Carol carol_123@example.com 1234567890
+John john.dan.12345@example.com 9999999999
+Sara sara.khan@example.co.in 9876501234
+Mike mike-007@example.org 9988776655
+Emma emma.jane@example.net 9123456789
+David _david_rock@example.com 9876549876
+Sophia sophia.lane@example.io 9988123456
+Chris chris.brown@example.edu 9876123456
+Lily lily_rose@example.info 9876543211
+Tom tom.hardy@example.biz 9876543212
+Nina nina_lee@example.co.uk 9876543213
+Ryan ryan.smith@example.us 9876543214
+Olivia olivia.jones@example.me 9876543215
+Ethan ethan_123@example.dev 9876543216
+Grace grace.miller@example.ai 9876543217
+Jack jack_white@example.tech 9876543218
+Ella ella.green@example.store 9876543219
+Noah noah.brown@example.design 9876543220
+Ava ava.king@example.email 9876543221
+Leo leo.turner@example.app 9876543222
+Mia mia.walker@example.team 9876543223
+Zoe zoe_123@example.codes 9876543224
+Luke luke.sky@example.site 9876543225
+Ivy ivy_rose@example.page 9876543226
+
+Invalid emails:
+@example.com
+123abc@example.com
+alice@@example.com
+carol.example.com
+john@.example.com
+sara@com
+mike@exam_ple.com
+emma@.com
+david@exam..com
+sophia@exam@ple.com
+chris@exam ple.com
+lily@exam!ple.com
+tom@exam#ple.com
+nina@exam$ple.com
+ryan@exam%ple.com
+olivia@exam^ple.com
+ethan@exam&ple.com
+grace@exam*ple.com
+jack@exam(ple.com
+ella@exam)ple.com
+noah@exam+ple.com
+ava@exam=ple.com
+leo@exam{ple.com
+mia@exam}ple.com
+zoe@exam|ple.com
