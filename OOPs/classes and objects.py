@@ -15,3 +15,9 @@ print(friuts)
 # for i in friuts:
 #     print(i)
 
+
+'''
+car1
+    => brand ="BMW", model = 'xyz7890' , year = 2025 
+    
+'''
