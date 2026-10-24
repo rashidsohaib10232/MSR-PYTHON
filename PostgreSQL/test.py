@@ -44,4 +44,4 @@ def execute():
 
     conn.commit()
     conn.close()   
-execute() 
+# execute() 
