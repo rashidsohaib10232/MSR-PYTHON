@@ -1,0 +1,2 @@
+def func3():
+    print("we spend five days a week pretending to be someone else...")
